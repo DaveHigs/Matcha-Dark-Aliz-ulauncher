@@ -3,7 +3,7 @@
 A theme for Ulauncher. Matcha Dark Aliz. Based on [Matcha Dark Sea ulauncher](https://github.com/athamour1/Matcha-Dark-Sea-ulauncher) theme. 
 
 ## Screenshot
-![](Screenshot.png?raw=true)
+![]()
 
 ## Installation
 
