@@ -9,6 +9,6 @@ A theme for Ulauncher. Matcha Dark Aliz. Based on [Matcha Dark Sea ulauncher](ht
 
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
-git clone https://github.com/athamour1/Matcha-Dark-Aliz-ulauncher.git \
+git clone https://github.com/DaveHigs/Matcha-Dark-Aliz-ulauncher.git \
   ~/.config/ulauncher/user-themes/Matcha-Dark-Aliz-ulauncher
 ```
